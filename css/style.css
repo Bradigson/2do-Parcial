@@ -35,6 +35,28 @@ form{
 .clear, li{
     margin-top:50px;
 }
+li{
+    background:#fff;
+    padding-left:15px;
+    line-height:2;
+    border-radius:5px;
+    width:80%;
+    display:flex;
+    padding-top:10px;
+}
+.btn-delete{
+    margin-left:525px;
+    width:55px;
+    height:58px;
+    border:none;
+    color:#fff;
+    background:rgb(219, 10, 10);
+    border-radius:0px 5px 5px 0px;
+    margin-top:-10px;
+    position:absolute;
+    
+
+}
 
 .c1{
     width:250px;
